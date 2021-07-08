@@ -2,10 +2,8 @@
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
-[logo]: https://i.ibb.co/Hd8K1fn/Software-University-logo-horizontal.png "Software University"
+<center>[logo]: https://i.ibb.co/Hd8K1fn/Software-University-logo-horizontal.png "Software University"</center>
 
-<br/>
-<br/>
 <br/>
 
 <h2> Certificates </h2>
