@@ -1,9 +1,5 @@
-# <p align="center"> Courses from the main program in SoftUni <p>
-
-<a href="https://softuni.bg/trainings/courses" rel="Courses">
-<p align="center"><img src="https://i.ibb.co/Hd8K1fn/Software-University-logo-horizontal.png" alt="Software University"></p>
-<a/>
-  
+# <p align="center"> Courses from the main program in SoftUni </p>
+<p align="left">
 <h2> Certificates </h2>
 
 |**Course**|**Link**| 
@@ -13,3 +9,8 @@
 |<a href="https://softuni.bg/trainings/3217/js-advanced-january-2021" > JS Advanced </a>  | <a href="https://softuni.bg/Certificates/Details/98331/792f4acb"> <img width="45px" height="45px" src="https://i.ibb.co/Q8PjdjC/istockphoto-1136599028-612x612.png" alt="Certificate Link"></a> |
 |<a href="https://softuni.bg/trainings/3218/js-applications-february-2021" > JS Applications </a>  | <a href="https://softuni.bg/Certificates/Details/102400/d82a9abb"> <img width="45px" height="45px" src="https://i.ibb.co/Q8PjdjC/istockphoto-1136599028-612x612.png" alt="Certificate Link"></a> |
 |<a href="https://softuni.bg/trainings/3357/js-back-end-may-2021" > JS Back-End </a>  | <a href="https://softuni.bg/Certificates/Details/108963/85265c2a"> <img width="45px" height="45px" src="https://i.ibb.co/Q8PjdjC/istockphoto-1136599028-612x612.png" alt="Certificate Link"></a> |
+</p>
+
+<p align="right"><a href="https://softuni.bg/trainings/courses" rel="Courses">
+<img src="https://i.ibb.co/Hd8K1fn/Software-University-logo-horizontal.png" alt="Software University">
+<a/></p>
