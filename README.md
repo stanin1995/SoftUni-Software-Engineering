@@ -1,11 +1,9 @@
 # <p align="center"> Courses from the main program in SoftUni <p>
 
-<a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
-
+<a href="https://softuni.bg/trainings/courses" rel="Courses">
 <p align="center"><img src="https://i.ibb.co/Hd8K1fn/Software-University-logo-horizontal.png" alt="Software University"></p>
-
-<br/>
-
+<a/>
+  
 <h2> Certificates </h2>
 
 |**Course**|**Link**| 
